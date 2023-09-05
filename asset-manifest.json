@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Probietech/static/css/main.f2dbf9e8.css",
+    "main.js": "/Probietech/static/js/main.4082b45b.js",
+    "static/js/787.49a96a27.chunk.js": "/Probietech/static/js/787.49a96a27.chunk.js",
+    "index.html": "/Probietech/index.html",
+    "main.f2dbf9e8.css.map": "/Probietech/static/css/main.f2dbf9e8.css.map",
+    "main.4082b45b.js.map": "/Probietech/static/js/main.4082b45b.js.map",
+    "787.49a96a27.chunk.js.map": "/Probietech/static/js/787.49a96a27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2dbf9e8.css",
+    "static/js/main.4082b45b.js"
+  ]
+}
