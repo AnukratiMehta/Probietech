@@ -73,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Price Validation: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)
 
+JSON data: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+
+Table styling: [https://flowbite.com/docs/components/tables/](https://flowbite.com/docs/components/tables/)
+
